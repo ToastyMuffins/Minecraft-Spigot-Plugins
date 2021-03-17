@@ -1,0 +1,12 @@
+name: SlimeEquipment
+version: 1.0
+author: ToastyMuffin
+main: toastymuffins.slimeequipment.ToastyTimes
+api-version: 1.16
+commands:
+  slimeboots:
+    description: Gives the player Slime Boots
+    usage: /slimeboots
+  fungisword:
+    description: Gives the player a Fungi Sword
+    usage: /fungisword
